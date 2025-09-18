@@ -1,2 +1,2 @@
 # thalassa
-Thalassa Wreck Heritage Project
+Thalassa Wreck Heritage Project.
